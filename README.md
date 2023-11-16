@@ -8,7 +8,7 @@ The data is formatted in a CSV file and is about budgeting in different EU count
 
 
 | Country    |  prct_budget_veryhard |prct_budget_hard | ... | prct_budget_veryeasy |
-| ---------- | --------------------- | --------------- | ------------- |
+| ---------- | --------------------- | --------------- | --- | -------------------- |
 | Country 1 | %  | % | %  | % |
 | Country 2 | %  | % | %  | % |
 | Etc | %  | % | %  | % |
